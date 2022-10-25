@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/visit-logger/static/css/main.dc0d899e.css",
+    "main.js": "/visit-logger/static/js/main.c107bd3d.js",
+    "index.html": "/visit-logger/index.html",
+    "main.dc0d899e.css.map": "/visit-logger/static/css/main.dc0d899e.css.map",
+    "main.c107bd3d.js.map": "/visit-logger/static/js/main.c107bd3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc0d899e.css",
+    "static/js/main.c107bd3d.js"
+  ]
+}
