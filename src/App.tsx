@@ -17,6 +17,7 @@ function App() {
 
   return (
     <div className="App">
+      <a href="https://www.cia.gov/the-world-factbook/static/31913c20666d022fa1315bd444553f8d/world_time.pdf" target='_blank' rel='noreferrer'>GMT Map</a>
       <div className="container">
         <h3 id='nameHeader'>Site</h3>
         <h3 id='siteHeader'>Time</h3>
