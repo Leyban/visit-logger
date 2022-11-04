@@ -18,9 +18,9 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h3 id='nameHeader'>Name</h3>
-        <h3 id='siteHeader'>Site</h3>
-        <h3 id='dateHeader'>Date Visited</h3>
+        <h3 id='nameHeader'>Site</h3>
+        <h3 id='siteHeader'>Time</h3>
+        <h3 id='dateHeader'>Locally</h3>
         {logs.map((log => <VisitLog key={log.id} id={log.id} name={log.name} site={log.site} time={log.time} />))}
       </div>
     </div>

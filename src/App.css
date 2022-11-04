@@ -10,6 +10,11 @@
   grid-template-columns: repeat(3, auto);
 }
 
+.App .container a{
+  text-decoration: none;
+  color: rgb(63, 83, 60);
+}
+
 .App .container h3{
   border-radius: 5px;
   text-align: center;
